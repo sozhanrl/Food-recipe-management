@@ -38,3 +38,16 @@ This project demonstrates the use of **HTML, CSS, and JavaScript** to create a d
 ---
 
 ## 📂 Project Structure
+Food-Recipe-Management/
+│
+├── index.html # Home Page
+├── about.html # About Page
+├── dashboard.html # Recipe Management Dashboard
+│
+├── stylehome.css # Styles for Home Page
+├── styledashboard.css # Styles for Dashboard
+│
+├── scripthome.js # JavaScript for Home Page
+├── scriptdashboard.js # JavaScript for Dashboard
+│
+└── README.md # Project Documentation
